@@ -1,0 +1,38 @@
+name: MegaWallsFFA
+version: 123100.0
+main: me.main.yoni.Main
+description: Private plugin for MEGAWALLSFFA.COM by Pr0_fAssEr
+
+commands:
+  megawallsffa:
+    aliases: mw
+  1v1:
+  team:
+  arena:
+  friend:
+  resetclass:
+  mute:
+  unmute:
+  mcheck:
+  staff:
+  lobby:
+    aliases: hub
+  help:
+  lockchat:
+    aliases: cl
+  clearchat:
+    aliases: cc
+  tip:
+  resetclass:
+  boosters:
+  booster:
+  duel:
+  stats:
+  msg:
+    aliases: [w,tell]
+  reply:
+    aliases: r
+  staffchat:
+    aliases: sc
+  alert:
+  reload:
